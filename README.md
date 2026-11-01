@@ -15,7 +15,7 @@ When the next exercise starts, open its folder the same way.
 
 | Folder | Exercise / slide | The file you write |
 |--------|------------------|--------------------|
-| `11-multi-file/` | Exercise #11, "Three files, one project" | `StudentService.java` in `src/org/amped/service/` (you create the `service` folder) |
-| `library-challenge/` | In-Class Challenge, "Library Management System" | `Library.java` in `src/` (plus a `Main.java` to test it) |
+| `11-multi-file/` | Exercise #11, "Three files, one project" | `StudentService.java` in `src/org/amped/service/` (already there; fill in the method) |
+| `library-challenge/` | In-Class Challenge, "Library Management System" | `Library.java` in `src/` (already there; fill in the methods) |
 
-In `11-multi-file`, a red error in `Main.java` when you first open it is normal. It points at `StudentService`, the class you are about to write.
+Each folder has a `Main.java` you run to test your code; it prints PASS or FAIL for every case.
